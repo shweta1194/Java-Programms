@@ -12,6 +12,7 @@ class Addition
 	public static void main(String[] args)
 	{
 		System.out.println("Main method started!!!");
+		// sum method called and passed int arguments 
 		sum(40, 30);
 		System.out.println("Main method ended!!!");
 	}
